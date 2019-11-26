@@ -7,4 +7,6 @@ dependencies:
   - pandas
   - keras
   - opencv
-  
+  - scikit-learn
+  - pip:
+      - imgaug

@@ -1,12 +1,12 @@
 # Autoencoders
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/mrdragonbear-autoencoders-ruq3z975/tree)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrdragonbear/Autoencoders/master)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder at the following URL:
 
-https://hub.gke.mybinder.org/user/mrdragonbear-autoencoders-ruq3z975/tree
+https://mybinder.org/v2/gh/mrdragonbear/Autoencoders/master
 
 This repository contains the supporting Python code for my medium blog post which can be found [here](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368).
 

@@ -12,3 +12,5 @@ dependencies:
   - bokeh
   - dask
   - keras
+  - opencv
+  
